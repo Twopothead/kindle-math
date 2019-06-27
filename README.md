@@ -15,3 +15,4 @@ This project uses version 0.4 of the BHCexam document class, dated Oct 10, 2015.
 - https://github.com/yuchengqi9/LaTeX
 - https://www.guyrutenberg.com/2016/09/29/optimize-latex-pdf-output-for-kindle/
 - https://ctan.org/pkg/scrartcl
+- https://github.com/inix/BHCexam
